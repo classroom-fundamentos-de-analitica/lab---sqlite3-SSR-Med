@@ -40,3 +40,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+SELECT tbl0.k0,c16 FROM tbl1 INNER JOIN tbl0 on tbl0.k0 = tbl1.k0 WHERE tbl0.k0 = substr(c16,1,1);

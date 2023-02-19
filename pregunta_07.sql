@@ -43,3 +43,4 @@
 -- 
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+SELECT * FROM tbl1 WHERE K0 != 'A' AND c13 != 200 AND c13!=900 AND  K0 != 'B' ORDER BY c14;
